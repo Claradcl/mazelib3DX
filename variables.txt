@@ -1,0 +1,3 @@
+coordinatesPortalPaintRoomX:57.410923
+coordinatesPortalPaintRoomY:-1.06579614
+coordinatesPortalPaintRoomZ:-55.5104561
